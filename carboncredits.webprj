@@ -1,0 +1,42 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project type="Local" name="Carbon Credits" encoding="utf8" >
+    <upload/>
+    <author>Greg Jetter</author>
+    <email>greg@lazymountain.com</email>
+    <defaultDTD>-//W3C//DTD HTML 4.01 Transitional//EN</defaultDTD>
+    <item url="" uploadstatus="1" />
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+    <item url="cgi-bin/" uploadstatus="1" />
+    <item url="CSS/" uploadstatus="1" />
+    <item url="JS/" uploadstatus="1" />
+    <item url="images/" uploadstatus="1" />
+    <item url="index.html" uploadstatus="1" />
+    <item url="images/raw_images/" uploadstatus="1" />
+    <item url="images/raw_images/ax1.jpg" uploadstatus="1" />
+    <item url="images/raw_images/ax2.jpg" uploadstatus="1" />
+    <item url="images/raw_images/ax3.jpg" uploadstatus="1" />
+    <item url="images/raw_images/ax_main2.jpg" uploadstatus="1" />
+    <item url="images/raw_images/ax_main3.jpg" uploadstatus="1" />
+    <item url="images/raw_images/BirchTrees1-1.jpg" uploadstatus="1" />
+    <item url="images/raw_images/BirchTrees1.jpg" uploadstatus="1" />
+    <item url="images/raw_images/BirchTrees2.jpg" uploadstatus="1" />
+    <item url="images/raw_images/BirchTrees3.jpg" uploadstatus="1" />
+    <item url="images/raw_images/CS1.jpg" uploadstatus="1" />
+    <item url="images/raw_images/CS3-1.jpg" uploadstatus="1" />
+    <item url="images/raw_images/CS3.jpg" uploadstatus="1" />
+    <item url="images/raw_images/stump1.jpg" uploadstatus="1" />
+    <item url="images/raw_images/stump2.jpg" uploadstatus="1" />
+    <item url="images/raw_images/stump3.jpg" uploadstatus="1" />
+    <item url="images/logo1.jpg" uploadstatus="1" />
+    <item url="images/logo2.png" uploadstatus="1" />
+    <item url="images/main-1.jpg" uploadstatus="1" />
+    <item url="images/main-small.jpg" uploadstatus="1" />
+    <item url="templates/" uploadstatus="1" />
+    <item url="toolbars/" uploadstatus="1" />
+    <item url="carboncredits.session" uploadstatus="1" />
+    <item url="carboncredits.webprj" uploadstatus="1" />
+    <annotations/>
+  </project>
+</webproject>

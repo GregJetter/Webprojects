@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+  <title>Lazymountain Carbon Credits</title>
+  <meta name="GENERATOR" content="Quanta Plus">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="KEYWORDS" content="Carbon,Credits,Planet,Save">
+  <script language="javascript" type="text/javascript">
+  // <!--
+function displayDate() {
+
+ today = new Date();
+ var TreesDieOn = new Date(today.getFullYear(),8,1);
+ 
+  
+var one_day=1000*60*60*24;   
+var timeLeft = Math.ceil((TreesDieOn.getTime()-today.getTime())/(one_day));
+
+	var currentDate = new Date();
+	var day = currentDate.getDate();
+	var month = currentDate.getMonth();
+         month = month +1 ;
+	var year = currentDate.getFullYear();
+	var todayis =  day + "/" + month + "/" + year ;
+
+        var message = "Today is " + todayis + " there are only " +timeLeft + " days left till these trees must die!";
+//alert( todayis + "there are " +timeLeft + "days left till the trees die" );
+         document.getElementById('timer').innerHTML = message ;
+	
+if(today.getMonth()==8 && today.getDate()>1)
+   {
+     document.getElementById('timer').innerHTML = " To late to save the trees they die today! ";
+   }
+
+}
+  
+  // -->
+  </script>
+
+<style type="text/css">
+#timer { text-decoration:blink; font-size:large; background-color:yellow;
+         }
+</style>
+
+
+
+</head>
+<body onload="displayDate();">
+<div align="center">
+<IMG src="images/logo2.png" width="690" height="57" align="bottom" border="0"><br>
+
+
+
+<IMG src="images/main-small.jpg" alt="endangered trees" width="690" height="989" align="bottom" border="0"><BR>
+
+
+
+<table width="700">
+<TR>
+<TD>
+Don't you think the Earth has suffered  enough ? How can you look at yourself in the mirror knowing through your in-action these trees  were killed. For a small donation of 200 dollars American these trees can live  on to help clean the air of Carbon . If sufficient carbon credits are purchased from us  by <font color="red" style="text-decoration:blink;"> September 1st, 2010</font> We will not have to kill these trees , they  will live on. If no one steps forward, they will have to die, their  corpse becoming  fire wood or tooth picks 
+</TD>
+</TR>
+<tr>
+<TD>
+<div id="timer">
+timer
+</TD></tr>
+</table>
+
+
+</div>
+
+
+</body>
+</html>
